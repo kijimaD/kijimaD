@@ -127,3 +127,4 @@ jobs:
           base: ""
           plugin_code: yes
           plugin_code_load: 400
+          config_timezone: Asia/Tokyo
