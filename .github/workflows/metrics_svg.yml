@@ -116,3 +116,14 @@ jobs:
           template: classic
           base: repositories
           config_timezone: Asia/Tokyo
+
+  code:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_load: 400
