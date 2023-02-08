@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="275" class="">
     <defs>
         <style/>
     </defs>
@@ -45,15 +45,15 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">50e63f08</span>
-                            <span class="code">20210817003906-history.org</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">20210926144137-career.org</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -113,6 +113,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- 古いバージョンのRedashのデータ移行を伴う[[id:1658782a-d331-464b-9fd7-1f8233b8b7f8][Docker]]環境移行<br /></span><span class="token prefix unchanged">·</span><span class="token line">- 中規模のテーブル移行を伴う機能改修プロジェクト担当<br /></span><span class="token prefix unchanged">·</span><span class="token line">* プライベート年表<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">** 2023年<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">** 2022年<br /></span><span class="token prefix unchanged">·</span><span class="token line">- このサイトの開発環境・自動テスト・デプロイを[[id:1658782a-d331-464b-9fd7-1f8233b8b7f8][Docker]]コンテナで行うようにした(ビルドが[[id:1ad8c3d5-97ba-4905-be11-e6f2626127ad][Emacs]], [[id:cfd092c4-1bb2-43d3-88b1-9f647809e546][Ruby]], [[id:a6c9c9ad-d9b1-4e13-8992-75d8590e464c][Python]], sqliteに依存する)。本番環境の[[id:6b889822-21f1-4a3e-9755-e3ca52fa0bc4][GitHub]] Pagesへの展開と、ステージング用の[[id:b1541b6a-f4aa-4751-b270-7ced303f8985][Heroku]]へのコンテナデプロイ<br /></span><span class="token prefix unchanged">·</span><span class="token line">- リポジトリの更新されていないファイルをコメントする[[id:2d35ac9e-554a-4142-bba7-3c614cbfe4c4][GitHub Actions]]、 [[https://github.com/kijimaD/StaleFile][StaleFile]]を作成した。[[https://github.com/marketplace/actions/stalefile][GitHub Marketplace]]で公開した</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -54,6 +54,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- OSS活動へのリンク<br /></span><span class="token prefix unchanged">·</span><span class="token line">** 聞くこと<br /></span><span class="token prefix unchanged">·</span><span class="token line">- 開発マシンに[[id:7a81eb7c-8e2b-400a-b01a-8fa597ea527a][Linux]]を使えるか<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- メンバーの開発マシン・エディタはなにか<br /></span><span class="token prefix inserted">+</span><span class="token line">- [[id:7a81eb7c-8e2b-400a-b01a-8fa597ea527a][Linux]]や[[id:1ad8c3d5-97ba-4905-be11-e6f2626127ad][Emacs]]が多いほど良い<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- 開発人員の数。チームの数、チームの人数<br /></span><span class="token prefix unchanged">·</span><span class="token line">- GitHubを使っているか<br /></span><span class="token prefix unchanged">·</span><span class="token line">- チームは何の単位で分割されてるのか</span></span></code>
                         </div>
                     </section>
                 </div>
