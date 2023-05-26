@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="191" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" class="">
     <defs>
         <style/>
     </defs>
@@ -45,9 +45,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">2f529cab</span>
-                            <span class="code">20230202234553-inbox.org</span>
+                            <span class="code">denote/20230501T003444--2023-05__essay.org</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++4</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,3 +8,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">* Tasks<br /></span><span class="token prefix unchanged">·</span><span class="token line">* Reference<br /></span><span class="token prefix unchanged">·</span><span class="token line">* Inbox<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">** [[https://ja.cooltext.com/][ロゴ及び画像ジェネレーター]]<br /></span><span class="token prefix inserted">+</span><span class="token line">ロゴを簡単に生成できるサイト。</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -32,3 +32,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- Go言語によるWebアプリケーション開発を読んでいる<br /></span><span class="token prefix unchanged">·</span><span class="token line">- 05-20<br /></span><span class="token prefix unchanged">·</span><span class="token line">- Go Webを読んでいる<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- 05-21<br /></span><span class="token prefix inserted">+</span><span class="token line">- Go Webを読んでいる<br /></span><span class="token prefix inserted">+</span><span class="token line">- 102<br /></span><span class="token prefix inserted">+</span><span class="token line">- 比較的よく入ってくる</span></span></code>
                         </div>
                     </section>
                 </div>
