@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="231" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Mar 2024, 22:08:12
+                            On 29 Mar 2024, 01:07:17
                         </div>
                     </section>
                 </div>
@@ -38,17 +38,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            style: textlint
+                            docs: update
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8e94c6db</span>
-                            <span class="code">20240325T204305--kdoc-131-今さらopenapi-v31の変更点を知る__draft_code.org</span>
+                            <span class="code">acf03ca5</span>
+                            <span class="code">20240324T214548--kdoc-129-『ポインタ理解のためのアセンブリ入門』を読んだ__draft_book.org</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -53,7 +53,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">* nullable<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">まさにこれだった。変更したところ、元の通りに生成されるようになった。<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">まさにこれだった。変更したところ、元の通り生成されるようになった。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#+caption: v3.0<br /></span><span class="token prefix unchanged">·</span><span class="token line">#+begin_src shell</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,8 +25,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">* この文書のステータス<br /></span><span class="token prefix unchanged">·</span><span class="token line">- 作成<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- [ ] &lt;署名&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line"># (progn (kill-line -1) (insert (format "  - [X] %s 貴島" (format-time-string "%Y-%m-%d"))))<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- [X] 2024-03-29 貴島<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- レビュー<br /></span><span class="token prefix unchanged">·</span><span class="token line">- [ ] &lt;署名&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"># (progn (kill-line -1) (insert (format "  - [X] %s 貴島" (format-time-string "%Y-%m-%d"))))</span></span></code>
                         </div>
                     </section>
                 </div>
