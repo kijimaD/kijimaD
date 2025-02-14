@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="213" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" class="">
     <defs>
         <style/>
     </defs>
@@ -38,16 +38,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: add spray
+                            feat: enable corfu-popup-mode
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">37173028</span>
-                            <span class="code">Cask</span>
+                            <span class="code">3e61f66a</span>
+                            <span class="code">conf/index.org</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++5</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -145,6 +145,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">(depends-on "smex")<br /></span><span class="token prefix unchanged">·</span><span class="token line">(depends-on "spacemacs-theme")<br /></span><span class="token prefix unchanged">·</span><span class="token line">(depends-on "spacious-padding")<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">(depends-on "spray")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">(depends-on "sql-indent")<br /></span><span class="token prefix unchanged">·</span><span class="token line">(depends-on "sqlup-mode")<br /></span><span class="token prefix unchanged">·</span><span class="token line">(depends-on "swiper")</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2606,6 +2606,11 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> (global-corfu-mode)<br /></span><span class="token prefix unchanged">·</span><span class="token line">#+end_src<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">#+caption: 補完の隣にドキュメント表示する<br /></span><span class="token prefix inserted">+</span><span class="token line">#+begin_src emacs-lisp<br /></span><span class="token prefix inserted">+</span><span class="token line"> (corfu-popupinfo-mode)<br /></span><span class="token prefix inserted">+</span><span class="token line">#+end_src<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#+caption: 基本設定<br /></span><span class="token prefix unchanged">·</span><span class="token line">#+begin_src emacs-lisp<br /></span><span class="token prefix unchanged">·</span><span class="token line"> (setq corfu-auto t)</span></span></code>
                         </div>
                     </section>
                 </div>
