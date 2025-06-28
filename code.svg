@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="268" class="">
     <defs>
         <style/>
     </defs>
@@ -45,7 +45,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">363e791a</span>
-                            <span class="code">20240301T235312--kdoc-116-コードを過大評価していた__essay.org</span>
+                            <span class="code">20240511T103303--kdoc-171-pdf本棚を作る__project.org</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,4 +18,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[[id:7a81eb7c-8e2b-400a-b01a-8fa597ea527a][Linux]]や[[id:1ad8c3d5-97ba-4905-be11-e6f2626127ad][Emacs]]などの巨大なオープンソースのコードに憧れを持ってきた。時間をかけて読めばコンピュータをすべて理解できる、と考えてきた。「今はまだわからないが、コードを読む技能がつけば、読めるようになるだろう」と考えていた。それからしばらく経ったが、そうはなっていない。今コードを見ても何も理解できない。背景知識がないと絶対にわからないことを最近になって理解した。コードは表現方法にすぎない。表現しようとしている根本のアイデアを知らなければ理解できない。コードを理解できず頭の悪さを嘆いたり諦めたりしてきた。しかしその前にやるべきこと、できることはいくらでもある。<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">* 関連<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- [[id:20240225T194805][KDOC 110: やりたいことに共通すること]]。やりたいことからやっていることに進歩させるために、どうしたらいいか考えた<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- [[id:20240225T194805][KDOC 110: やりたいことに共通することを考える]]。やりたいことからやっていることに進歩させるために、どうしたらいいか考えた</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -28,7 +28,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">* 関連<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">- [[id:20240324T120408][KDOC 127: ChromeのPDFビューワでしおりを使う]]。背景<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- [[id:20240511T041838][KDOC 170: しおりを自動化した]]。この機能を含めた<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- [[id:20240511T041838][KDOC 170: PDFしおりを使いやすくする]]。この機能を含めた<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">* Tasks<br /></span><span class="token prefix unchanged">·</span><span class="token line">** TODO タイトル検索できるようにする</span></span></code>
                         </div>
                     </section>
                 </div>
